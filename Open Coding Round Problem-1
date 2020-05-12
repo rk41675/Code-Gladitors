@@ -1,0 +1,16 @@
+def main():
+    maxi=[]
+    for i in range(num):
+        d=int(arra[i]/arr[i])
+        maxi.append(d)
+    print(min(maxi))
+
+
+    
+
+num=int(input())
+arr=list(map(int,input().split()))
+arra=list(map(int,input().split()))
+
+
+main()
